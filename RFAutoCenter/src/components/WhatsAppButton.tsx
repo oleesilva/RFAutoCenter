@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 const WhatsAppButton = () => {
   // Handler para abrir WhatsApp
   const handleClick = () => {
-    const phoneNumber = "5511946089711"; // Número real da RF Auto Center
+    const phoneNumber = "5511992873343"; // Número real da RF Auto Center
     const message = encodeURIComponent("Olá! Gostaria de agendar um serviço na RF Auto Center.");
     window.open(`https://wa.me/${phoneNumber}?text=${message}`, "_blank");
   };
