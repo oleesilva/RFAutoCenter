@@ -55,8 +55,4 @@ Siga as guidelines de código limpo e adicione testes quando possível.
 ## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-Feito com ❤️ para a comunidade automotiva! 🚗
-- Endereço: Rua Exemplo, 123 - São Paulo, SP
-
 Feito com ❤️ para a comunidade automotiva! 🚗
