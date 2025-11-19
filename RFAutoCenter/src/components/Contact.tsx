@@ -30,7 +30,7 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Telefone",
-      content: "(11) 94608-9711",
+      content: "(11) 99287-3343",
       subContent: "WhatsApp disponível",
       link: "https://wa.me/5511946089711"
     },
