@@ -50,8 +50,15 @@ Siga as guidelines de código limpo e adicione testes quando possível.
 
 ## Colaboradores
 
-- **Alessandro Henrique** (Desenvolvedor Principal): Responsável pelo design, implementação frontend e deploy. Contato: oleesilva@gmail.com
+- **Alessandro Henrique** (Desenvolvedor Principal): Responsável pelo design, implementação frontend e deploy. Contato: oleesilva@icloud.com
 - **Mayara Fonseca** (Desenvolvedora Secundária): Responsável pelo escopo, analise de projeto e deploy. Contato: mayara.fonseca.andrade@outlook.com
+- **Luiz Fernando**
+- **Igor silva**
+- **Guilherme Alves**
+- **filipi Araujo**
+- **Gustavo de Oliveira**
+- **Felipe Augusto**
+- **Miguel Barbosa**
 ## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
